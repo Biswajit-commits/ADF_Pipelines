@@ -1,0 +1,8 @@
+﻿Resource Type,Count,Simple,Medium,Complex
+activity,123,42,51,30
+dataflow,2,0,2,0
+dataset,40,32,8,0
+factory,2,0,0,0
+linked_service,10,1,6,3
+pipeline,58,56,2,0
+trigger,3,0,1,2

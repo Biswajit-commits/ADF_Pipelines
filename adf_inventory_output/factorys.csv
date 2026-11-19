@@ -1,0 +1,3 @@
+﻿Resource Name,Resource Type,Source File,ADF Type,Description,Folder,Annotations,Raw Properties JSON,Properties JSON
+ADFAccenLulu,factory,factory/ADFAccenLulu.json,,,Root,[],"{""trustModeClaimForMi"": {""value"": ""Enabled"", ""editable"": true, ""isExplicitlySet"": false}}","{""trustModeClaimForMi"": {""value"": ""Enabled"", ""editable"": true, ""isExplicitlySet"": false}}"
+ADFaccountforlearning,factory,factory/ADFaccountforlearning.json,,,Root,[],{},{}
